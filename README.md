@@ -1,6 +1,6 @@
 <div style='text-align:center;width:100%;'>
    <br/>
-   <img alt='Rafael Schümg' src='https://res.cloudinary.com/djjkfuxvk/image/upload/v1595533303/logo600_qoo4j6.svg' width='75%' style='align:center;'/>
+   <img alt='Rafael Schümg' src='https://res.cloudinary.com/djjkfuxvk/image/upload/v1595533303/logo600_qoo4j6.svg' style='align:center;'/>
 
    <br/>
    <br/>
