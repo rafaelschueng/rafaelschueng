@@ -5,7 +5,7 @@
    <br/>
    <br/>
 
-   <h2>I'm <strong>Rafael Schüng.</strong> software developer, enthusiast and technology lover.</h2>
+   <h3>I'm <strong>Rafael Schüng.</strong> software developer, enthusiast and technology lover.</h3>
    <div>
       <a href="www.linkedin.com/in/rafael-schueng">LinkedIn</a>
    </div>
