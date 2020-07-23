@@ -1,1 +1,1 @@
-<img alt="Rafael Schüng" width="100%" src="./assets/logo.svg"/>
+![Rafael Schüng Logo](./assets/logo.svg)
