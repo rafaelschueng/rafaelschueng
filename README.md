@@ -1,4 +1,4 @@
-<div style='text-align:center;'>
+<div style='text-align:center;width:100%;'>
    <br/>
    <img alt='Rafael Schümg' src='https://res.cloudinary.com/djjkfuxvk/image/upload/v1595530334/personal_logo_zhxtpt.svg' width='50%' style='align:center;'/>
 
